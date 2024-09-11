@@ -16,3 +16,14 @@ body {
   height: 60px;
   width: 100%;
 }
+
+.heroContainer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.heroHeading {
+  position: absolute;
+  top: 50px;
+}
